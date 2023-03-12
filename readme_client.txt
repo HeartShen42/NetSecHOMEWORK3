@@ -9,4 +9,4 @@ docker run -it clientsvr /bin/bash
 
 Begin communicate with ctf server:
 python3 client.py --server hw3svr.netsec-docker.isi.jhu.edu --user student
-the password is netsec
+the password is nwsec
